@@ -10,7 +10,7 @@ run npm i in the console to download all required dependencies such as sequlize,
 ## Usage
 Walkthrough video utilizes Postman to make test request to the server.
 
-![Video Walkthrough](./assets/Video%20Walkthrough%20e-commerce.webm)
+[Video Walkthrough e-commerce.webm](https://github.com/Akusluch/e-commerce-back-end/assets/141289344/768ae4eb-4319-4726-b47e-7b34e0aa0fa1)
 
 ## license
 MIT License
